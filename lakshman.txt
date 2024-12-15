@@ -1,0 +1,31 @@
+basic commands that are used in git
+
+
+
+git init - for intillization
+
+
+git status - for tracking
+
+
+
+git diff - for know the diffrence b/w one version another version
+
+
+git log - it will give logs of all versions
+
+
+git add - for add file from working dir to staging area
+
+
+git commit -m 'these is ,y first fiel'  - it will move the file from staging area to local repo
+
+
+git push - it will move the file local to remote repo (github or bitbucket exx....)
+
+
+git branch - it will tell that you are now in branch or main
+
+
+
+	
